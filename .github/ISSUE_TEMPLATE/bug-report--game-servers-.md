@@ -7,7 +7,7 @@ assignees: my3t
 
 ---
 
-### Scope
+## Scope
 
 **Type**
 What feature is this bug affecting?
@@ -21,15 +21,13 @@ e.g. Asia, Europe, US.
 The IP address of the server the bug occurred on.
 e.g. 209.58.160.137:27000
 
----
-
-### Details
+## Details
 
 **Describe**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+The steps required to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'

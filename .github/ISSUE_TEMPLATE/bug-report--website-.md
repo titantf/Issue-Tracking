@@ -7,7 +7,7 @@ assignees: my3t
 
 ---
 
-### Scope
+## Scope
 
 **Url**
 What page of the website is this bug occurring on?
@@ -24,15 +24,13 @@ e.g. https://titan.tf/inventory
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
----
-
-### Details
+## Details
 
 **Describe**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+The steps required to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
