@@ -1,25 +1,28 @@
 ---
-name: Bug Report (Game Servers)
-about: File a report to help us improve our game servers
+name: Bug Report (Website)
+about: File a report to help us improve our web platforms
 title: ''
-labels: Bug, Game Servers
+labels: Bug, Website
 assignees: my3t
 
 ---
 
 ### Scope
 
-**Type**
-What feature is this bug affecting?
-e.g. Store, Rank, XP, Chests, Bounty, VS Saxton Hale, Deathrun
+**Url**
+What page of the website is this bug occurring on?
+e.g. https://titan.tf/inventory
 
-**Region**
-What region was the server hosted in?
-e.g. Asia, Europe, US.
+**Desktop**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-**IP**
-The IP address of the server the bug occurred on.
-e.g. 209.58.160.137:27000
+**Smartphone**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
 ---
 
