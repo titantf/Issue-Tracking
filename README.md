@@ -10,6 +10,7 @@ DO NOT post such issues with great detail on this platform. Create an issue in h
 
 
 ## Rewards
+The bug classification is on a case by case basis.
 |        | Description                                                                                                                                                                                              | Reward                                                 |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | Type 1 | Most bugs fall under this category.                                                                                                                                                                      | 1x Epic Chest or 1x Legendary Chest                    |
