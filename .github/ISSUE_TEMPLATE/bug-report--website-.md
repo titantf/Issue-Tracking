@@ -9,6 +9,9 @@ assignees: my3t
 
 ## Scope
 
+**Steam ID or Profile**
+To reward you with the bounty if this is solved.
+
 **Url**
 What page of the website is this bug occurring on?
 e.g. https://titan.tf/inventory

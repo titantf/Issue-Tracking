@@ -9,6 +9,9 @@ assignees: my3t
 
 ## Scope
 
+**Steam ID or Profile**
+To reward you with the bounty if this is solved.
+
 **Type**
 What feature is this bug affecting?
 e.g. Store, Rank, XP, Chests, Bounty, VS Saxton Hale, Deathrun
