@@ -1,6 +1,8 @@
 # Issues and Suggestions Tracking
 This platform is intended for the purpose of tracking all development on Titan.TF, such as keeping known bugs on our radar and allowing players to ideate on new features and solutions.
 
+It is also a public roadmap to let everyone see what's coming up and what we're working on.
+
 [Click here to get started](https://github.com/TitanTF/Bug-Bounty/issues/new/choose)
 
 ## Bug Bounty
