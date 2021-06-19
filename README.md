@@ -1,3 +1,5 @@
+![](https://repository-images.githubusercontent.com/323227722/0e0b3f80-438d-11eb-9a3d-781d4d1d667a)
+
 # Issues and Suggestions Tracking
 This platform is intended for the purpose of tracking all development on Titan.TF, such as keeping known bugs on our radar and allowing players to ideate on new features and solutions.
 
