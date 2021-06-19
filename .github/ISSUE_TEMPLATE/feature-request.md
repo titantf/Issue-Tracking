@@ -7,11 +7,6 @@ assignees: ''
 
 ---
 
-## Scope
-
-**Steam ID or Profile**
-To reward you with the bounty if this is accepted.
-
 ## Details
 
 **Describe**
