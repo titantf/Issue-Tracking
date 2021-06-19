@@ -1,6 +1,6 @@
 ---
 name: Bug Report (Game Servers)
-about: File a report to help us improve our game servers
+about: Help us improve our game servers
 title: ''
 labels: Bug, Game Servers
 assignees: my3t

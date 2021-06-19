@@ -1,6 +1,6 @@
 ---
 name: Bug Report (Website)
-about: File a report to help us improve our web platforms
+about: Report an issue with our web platforms
 title: ''
 labels: Bug, Website
 assignees: my3t
