@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest an idea to improve QoL or something cool
 title: ''
-labels: Feature
+labels: ''
 assignees: ''
 
 ---

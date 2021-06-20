@@ -2,7 +2,7 @@
 name: Bug Report (Game Servers)
 about: Help us improve our game servers
 title: ''
-labels: Bug, Game Servers
+labels: Bug, Servers
 assignees: my3t
 
 ---
