@@ -44,7 +44,7 @@ body:
       options:
         - label: I agree
           required: true
-- type: checkboxes
+  - type: checkboxes
     id: rules
     attributes:
       label: Rules of Conduct
