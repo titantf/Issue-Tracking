@@ -26,7 +26,7 @@ body:
         - Microsoft Edge
         - Opera
         - Others
-	  validations:
+      validations:
         required: true
   - type: textarea
     id: what-happened
