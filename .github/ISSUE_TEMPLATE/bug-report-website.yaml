@@ -1,4 +1,4 @@
-name: Bug Report (Servers)
+name: Bug Report (Website)
 description: Report an issue on our web platforms
 labels: ["Bug", "Website"]
 body:
@@ -24,7 +24,9 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-      validations:
+        - Opera
+        - Others
+    validations:
         required: true
   - type: textarea
     id: what-happened
