@@ -1,0 +1,52 @@
+name: Bug Report (Website)
+description: File an issue relating to the web platforms
+labels: ["Bug", "Website"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: steamid
+    attributes:
+      label: Steam ID or Profile
+      description: We will reward you with the bounty if this is resolved.
+      placeholder: e.g. https://steamcommunity.com/profiles/76561198088419275
+    validations:
+      required: true
+   - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Others
+	  validations:
+        required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What Happened?
+      description: Also tell us, how to reproduce the bug and what did you expect to happen? If you have any screenshots that may help us better understand the problem, please include them.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Logs
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules of Conduct
+      description: By submitting this issue, you agree that you will not abuse this bug to your advantage.
+      options:
+        - label: I agree to the rules of conduct
+          required: true
