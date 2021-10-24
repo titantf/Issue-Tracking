@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Bug Report (Servers)
+description: Report an issue on our community servers
 labels: ["Bug", "Servers"]
 body:
   - type: markdown
