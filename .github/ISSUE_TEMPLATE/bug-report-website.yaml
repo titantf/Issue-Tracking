@@ -28,25 +28,25 @@ body:
         - Others
       validations:
         required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What Happened?
-      description: Also tell us, how to reproduce the bug and what did you expect to happen? If you have any screenshots that may help us better understand the problem, please include them.
-      placeholder: Tell us what you see!
-    validations:
-      required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant Logs
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: rules
-    attributes:
-      label: Rules of Conduct
-      description: By submitting this issue, you agree that you will not abuse this bug to your advantage.
-      options:
-        - label: I agree to the rules of conduct
-          required: true
+   - type: textarea
+     id: what-happened
+     attributes:
+       label: What Happened?
+       description: Also tell us, how to reproduce the bug and what did you expect to happen? If you have any screenshots that may help us better understand the problem, please include them.
+       placeholder: Tell us what you see!
+     validations:
+       required: true
+   - type: textarea
+     id: logs
+     attributes:
+       label: Relevant Logs
+       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+       render: shell
+   - type: checkboxes
+     id: rules
+     attributes:
+       label: Rules of Conduct
+       description: By submitting this issue, you agree that you will not abuse this bug to your advantage.
+       options:
+         - label: I agree to the rules of conduct
+           required: true
