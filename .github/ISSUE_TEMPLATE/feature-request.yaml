@@ -1,0 +1,11 @@
+name: Feature Request
+description: Suggest an idea to improve QoL or something cool
+labels: ["Suggestion"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Details
+      description: Tell us what this is about! You may include screenshots to elaborate where applicable.
+    validations:
+      required: true
