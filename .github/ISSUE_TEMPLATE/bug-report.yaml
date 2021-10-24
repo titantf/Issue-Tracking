@@ -37,18 +37,10 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
   - type: checkboxes
-    id: terms
-    attributes:
-      label: No Critical Security Exploits
-      description: By submitting this issue, you agree that this report does not contain any specific details on a critical security exploit.
-      options:
-        - label: I agree
-          required: true
-  - type: checkboxes
     id: rules
     attributes:
       label: Rules of Conduct
       description: By submitting this issue, you agree that you will not abuse this bug to your advantage.
       options:
-        - label: I agree
+        - label: I agree to the rules of conduct
           required: true
