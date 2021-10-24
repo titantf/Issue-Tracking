@@ -24,7 +24,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-	  validations:
+      validations:
         required: true
   - type: textarea
     id: what-happened
