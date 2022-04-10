@@ -1,4 +1,4 @@
-![](https://titan.tf/images/16.png)
+![](https://github.com/TitanTF/TitanTF/blob/main/banner.png)
 
 # Issues and Suggestions Tracking
 This platform is intended for the purpose of tracking all development on Titan.TF, such as keeping known bugs on our radar and allowing players to ideate on new features and solutions.
