@@ -21,3 +21,6 @@ The classification of bugs is done on a case-by-case basis.
 | Type 1 | Most bugs fall under this category.                                                                                                                                                                      | 1x Rare or 1x Epic Chest or 1x Legendary Chest                    |
 | Type 2 | Causes a major feature (such as an important gameplay element required for the gamemode to function properly or a complete store outage) to be completely unavailable (excluding maps and MvM missions). | 1x Legendary Chest or 1x Month Titan Plus Subscription |
 | Type 3 | Severely impacts the security and performance of the infrastructure and require immediate attention.                                                                                                     | 1x to 3x Month Titan Plus Subscription                 
+
+## Suggestions
+Any and all ideas are welcome. However, you might want to consider posting your suggestion on our [discussion forums](https://titan.tf/forum).
