@@ -1,5 +1,3 @@
-![](https://github.com/TitanTF/Issue-Tracking/blob/main/banner.png)
-
 # Issues & Requests Tracking
 This repository is intended to facilitate the development of titan.tf by tracking known bugs and enabling players to suggest new features and solutions.
 
@@ -12,6 +10,8 @@ This is a pilot program to encourage more players to report bugs. A bounty wi
 
 ### Critical Security Exploits
 Please refrain from discussing critical security exploits in detail on this platform. Instead, please send it to `myst@titan.tf`, or [create a support ticket](https://titan.tf/support) with all the necessary details, including instructions on how to replicate the exploit.
+
+<img src="https://github.com/TitanTF/Issue-Tracking/blob/main/banner.png" />
 
 <!-- ### Rewards
 The classification of bugs is done on a case-by-case basis.
