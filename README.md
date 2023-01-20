@@ -1,9 +1,12 @@
 # Issues & Requests Tracking
 This repository is intended to facilitate the development of titan.tf by tracking known bugs and enabling players to suggest new features and solutions.
 
-It also serves as a public roadmap, providing visibility into our current and planned work.
+📝 Get started by [creating a new issue](https://github.com/TitanTF/Issue-Tracking/issues/new/choose)
 
-[Click here to get started](https://github.com/TitanTF/Issue-Tracking/issues/new/choose)
+### Public Roadmap
+The roadmap is a platform for learning about upcoming features, their progress, and estimated release dates. If you have any questions or comments about the items listed on the roadmap, please share your feedback through the public feedback discussions. If you have feedback about this issue repository itself, please share it through general feedback in [public feedback discussions](https://github.com/orgs/TitanTF/discussions).
+
+💎 View the [official titan.tf public roadmap](https://github.com/orgs/TitanTF/projects/2/views/1)
 
 <!-- ## Bug Bounty
 This is a pilot program to encourage more players to report bugs. A bounty will be awarded for every bug that is reported and fixed. -->
